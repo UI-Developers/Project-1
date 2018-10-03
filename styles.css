@@ -112,7 +112,8 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 
-.location {
+.location,
+.strapline {
   background-color: #222;
   color: yellow;
 }
